@@ -11,7 +11,7 @@ role: PhD Student
 # Organizations/Affiliations
 organizations:
 - name: University Otago
-  url: ""
+  url: "https://www.otago.ac.nz/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Natural Language Processing, Artifical Inteligence, search engines and cloud computing.

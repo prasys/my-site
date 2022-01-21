@@ -12,8 +12,8 @@ design:
   columns: '1'
 ---
 
-I'm a PhD Student at the [University of Otago](https://otago.ac.nz/) in Dunedin, :flag_new_zealand:. 
-Currently, I am working on some of the challenging areas in Natural Language Processing (NLP) which includes sarcasm detection and discourse analysis. 
+I'm a PhD Student at the [University of Otago](https://otago.ac.nz/) in Dunedin, New Zealand\
+Currently, I am working on some of the challenging areas in Natural Language Processing (NLP) which includes sarcasm detection and discourse analysis.\ 
 I am currently being supervised by Associate Professor [Andrew Trotman](https://www.cs.otago.ac.nz/homepages/andrew/), Associate Professor [David Eyers](https://dme.cspages.otago.ac.nz/) 
 and Dr. Veronica Liesaputra.
 
