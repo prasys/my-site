@@ -19,11 +19,11 @@ design:
     # color: navy
     # gradient_start: DarkGreen
     # gradient_end: ForestGreen
-    image: li-yang-5h_dMuX_7RE-unsplash.webp  # Name of image in `static/media/`.
+    image: kul.jpg  # Name of image in `static/media/`.
     image_darken: 0.6
     image_size: cover
     image_position: center
-    image_parallax: false
+    image_parallax: true
     text_color_light: true
 advanced:
   css_style:
