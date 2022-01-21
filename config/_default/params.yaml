@@ -7,7 +7,7 @@
 # Appearance
 
 theme: custom
-day_night: false
+day_night: true
 font: rose
 font_size: L
 
