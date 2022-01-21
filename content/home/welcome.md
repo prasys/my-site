@@ -6,12 +6,12 @@
 widget: blank  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 20  # Order that this section will appear.
-title: "Welcome :wave:"
+title: "Kia Ora :wave:"
 subtitle: ""
 design:
   columns: '1'
 ---
 
-Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+I'm a PhD Student at University of Otago in Dunedin. Currently, I am working on some of the challenging areas in Natural Language Processing (NLP) which includes sarcasm detection and discourse analysis. I am currently being supervised by Associate Professor Andrew Trotman, Associate Professor David Eyers and Dr.Veronica Liesaputra.
 
-**Specialties:** Analytics & Data, Leadership, Programming, Strategic Planning, Writing & Editing
+**Specialties:** Data Mining, Natural Language Processing (NLP)
