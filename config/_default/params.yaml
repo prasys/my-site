@@ -83,7 +83,7 @@ edit_page:
     post: false
 show_related:
   page: false
-  post: true
+  post: false
   project: true
   publication: true
   event: true
