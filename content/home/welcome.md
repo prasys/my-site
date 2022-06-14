@@ -12,7 +12,7 @@ design:
   columns: '1'
 ---
 
-I'm a PhD Student at the [University of Otago](https://otago.ac.nz/) in Dunedin, New Zealand
+I'm a PhD Student at the [University of Otago](https://otago.ac.nz/) in Dunedin, New Zealand. <br/>
 My main research interests are detecting sarcasm in text, human behaviour, bias in deep learning! I strongly believe that if we can automatically identify human behaviour and understand affect, we can therefore products are designed to affect. Please feel free to reach out to me to talk about teaching, ethical computing, or online harassment!
 
 Do check out my list of published papers [here](/publication). Please feel free to reach out to me to talk about my work or about how we can apply understanding of human behaviour to tackle sarcasm detection 
