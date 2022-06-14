@@ -12,8 +12,11 @@ design:
   columns: '1'
 ---
 
-I'm a PhD Student at the [University of Otago](https://otago.ac.nz/) in Dunedin, New Zealand\
-Currently, I am working on some of the challenging areas in Natural Language Processing (NLP) which includes sarcasm detection and discourse analysis. I am currently being supervised by Associate Professor [Andrew Trotman](https://www.cs.otago.ac.nz/homepages/andrew/), Associate Professor [David Eyers](https://dme.cspages.otago.ac.nz/) 
-and Dr. Veronica Liesaputra.
+I'm a PhD Student at the [University of Otago](https://otago.ac.nz/) in Dunedin, New Zealand
+My main research interests are detecting sarcasm in text, human behaviour, bias in deep learning! I strongly believe that if we can automatically identify human behaviour and understand affect, we can therefore products are designed to affect. Please feel free to reach out to me to talk about teaching, ethical computing, or online harassment!
+
+Do check out my list of published papers [here](/publication). Please feel free to reach out to me to talk about my work or about how we can apply understanding of human behaviour to tackle sarcasm detection 
+
+I am currently being supervised by Associate Professor [Andrew Trotman](https://www.cs.otago.ac.nz/homepages/andrew/), Associate Professor [David Eyers](https://dme.cspages.otago.ac.nz/) and Dr. Veronica Liesaputra.
 
 **Research Interests:** Natural Language Processing (NLP), Artificial Inteligence (AI), Text Mining
